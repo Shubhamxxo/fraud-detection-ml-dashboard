@@ -405,5 +405,3 @@ Ideas to take it further:
 6. **Cloud Deploy**: Host on AWS/GCP/Azure
 
 ---
-
-*Built with ❤️ — FraudSentinel AI v2.4.1*
